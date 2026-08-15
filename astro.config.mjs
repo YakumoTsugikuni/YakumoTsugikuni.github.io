@@ -9,6 +9,6 @@ export default defineConfig({
     plugins: [tailwindcss(), contentApiPlugin()],
   },
   
-  site: 'https://yourdomain.com',
+  site: 'https://portifolioguilherme.me',
   integrations: [sitemap(), react()]
 });
